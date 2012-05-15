@@ -1,13 +1,12 @@
 {
      "name":"emptyObject",
      "description":"A simple micro lib to add an isEmpty method to the object prototype. _ too heavy weight? Wanna save yourself a coffeescript one-liner? Just use this!",
-     "version":"1.0.0",
+     "version":"1.1.0",
      "homepage":"http://github.com/leadVisionary/emptyObject",
      "repository":"git://github.com/leadVisionary/emptyObject.git",
      "author":"Nicholas Vaidyanathan <visionary.software.solutions@gmail.com> (http://www.visionarysoftwaresolutions.com/)",
-     "main":"./empty.js",
+     "main":"./index.js",
       "dependencies":{
-       "coffee-script":"*"
       },
       "devDependencies":{
          "node-log":"*",
