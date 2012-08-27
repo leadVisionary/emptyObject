@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/leadVisionary/emptyObject.png)](http://travis-ci.org/leadVisionary/emptyObject)
 emptyObject
 ===========
 
